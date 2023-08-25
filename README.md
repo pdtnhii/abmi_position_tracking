@@ -13,8 +13,8 @@ Start reading online now by clicking the binder badge below:
 pip install -r requirements.txt
 ```
 
-2. Run `monitor`
+2. Open notebook
 ```
-py monitor.py
+jupyter notebook notebook.ipynb
 ```
 
